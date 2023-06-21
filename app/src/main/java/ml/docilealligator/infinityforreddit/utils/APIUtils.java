@@ -12,6 +12,11 @@ import okhttp3.RequestBody;
  * Created by alex on 2/23/18.
  */
 
+/**
+ * Look at this interesting file >:)
+ * TODO: do something with this later
+ */
+
 public class APIUtils {
     public static final String OAUTH_URL = "https://www.reddit.com/api/v1/authorize.compact";
     public static final String OAUTH_API_BASE_URI = "https://oauth.reddit.com";
